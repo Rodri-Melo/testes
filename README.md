@@ -12,36 +12,24 @@ Todos os aspectos críticos do aplicativo foram testados utilizando Jest, garant
 
 ## Tecnologias e Ferramentas
 
-Este projeto utiliza um conjunto de tecnologias para oferecer uma experiência de desenvolvimento de alta qualidade:
+Este projeto utiliza um React e localstorage, e os testes são feitos com jest
 
-Java e Spring:  confiabilidade e eficiência oferecidas pelo Java, combinado com a poderosa estrutura do Spring.
-
-React:  flexibilidade e interatividade do React para criar uma interface de usuário dinâmica.
-
-Bootstrap:  design com Bootstrap, proporcionando uma experiência visual moderna e responsiva.
-
-MySQL: eficiente sistema de gerenciamento de banco de dados que integra-se perfeitamente ao projeto, garantindo armazenamento robusto e rápido acesso aos dados.
 
 ## Pré-requisitos e Instalação
-Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 
-Extensão para Java: (Exemplo: Test Runner for Java) - Garante a execução suave de aplicações Java.
+1. Clone o projeto e instale as dependencias:
 
-
-1. Clone o projeto:
 
 ```bash
-git clone git@github.com:Rodri-Melo/crud-java-e-react.git
+git clone git@github.com:Rodri-Melo/testes.git
 ```
 
-2. Inicie o Banco de Dados:
+```bash
+npm install
+```
+
+2. Testes podem ser exibidos com o comando npm test.
 
 
-Vá até o arquivo ProdutoApplication.java e clique em "Run" para configurar o banco de dados.
-
-
-3. Inicie o Front-end:
-
-
-Navegue até a pasta de front-end e utilize o comando npm start. Se o navegador não abrir automaticamente, acesse a URL http://localhost:3000.
+3. Inicie o projeto utilizando o comando npm start.
 
