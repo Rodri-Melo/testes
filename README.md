@@ -8,7 +8,7 @@ Este projeto é um aplicativo de lista de tarefas (Todo App) desenvolvido em Rea
 Testes de Cobertura:
 Todos os aspectos críticos do aplicativo foram testados utilizando Jest, garantindo uma cobertura de testes de 100%. Isso garante a estabilidade e confiabilidade do aplicativo em todas as situações possíveis.
 
-<img src="https://i.imgur.com/lp2x92u.png" alt="Descrição da primeira imagem" width="800" height="400" />
+<img src="https://i.imgur.com/lp2x92u.png" alt="Descrição da primeira imagem" width="700" height="400" />
 
 ## Tecnologias e Ferramentas
 
